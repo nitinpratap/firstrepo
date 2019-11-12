@@ -1,4 +1,4 @@
 <?php
-echo "test 1";
-echo "test 2";
+echo "test2.php 1";
+echo "test2.php 2";
 ?>
