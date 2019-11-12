@@ -1,4 +1,4 @@
 <?php
-echo "commit revert 1";
-echo "commit revert 2";
+echo "test 1";
+echo "test 2";
 ?>
